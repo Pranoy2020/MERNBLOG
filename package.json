@@ -1,0 +1,20 @@
+{
+  "name": "mernblog",
+  "version": "1.0.0",
+  "description": "MERN STACK BLOG  WEBSITE",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranoy2020/MERNBLOG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranoy2020/MERNBLOG/issues"
+  },
+  "homepage": "https://github.com/Pranoy2020/MERNBLOG#readme"
+}
